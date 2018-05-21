@@ -1,0 +1,8 @@
+{
+    "icons": [{
+        "src": "centric.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+    }],
+    "start_url": "/"
+}
